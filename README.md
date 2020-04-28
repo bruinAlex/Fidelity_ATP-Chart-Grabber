@@ -14,3 +14,7 @@
 - Run script from shell: `python fidelity_atp_volatility_charts.py`
 - When script is finished, an alert box will pop up
 - Look in the `output` directory for your screenshots
+
+## TODO
+- Add ability to choose other time periods for charting
+- Detect and handle other open ATP windows
